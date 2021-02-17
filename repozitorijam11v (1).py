@@ -22,6 +22,7 @@ print(5+6)
 
 #10)Ratnieks Paulis
 print(3 % 2)
+print("ada")
 #11)Rimkçvièa Alise
 
 #12)Samsonova Anna
